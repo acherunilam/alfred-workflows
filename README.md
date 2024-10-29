@@ -27,12 +27,12 @@ Requires [Nanoleaf Light Panels](https://nanoleaf.me/en-US/products/nanoleaf-lig
 ## Pastebin
 Aliases: paste, pb
 ![Pastebin](images/paste.png)
-Requires @mkaczanowski's [Pastebin](https://github.com/mkaczanowski/pastebin).
+Requires [Pastebin](https://github.com/mkaczanowski/pastebin).
 
 ## URL Shortener
 Aliases: link, shorten, url
 ![URL Shortener](images/url.png)
-Requires [Shlink](https://github.com/shlinkio/shlink). Supports fetching the URL only from Chrome and Safari.
+Requires [Chhoto URL](https://github.com/SinTan1729/chhoto-url). Supports fetching the URL only from Chrome and Safari.
 
 ## Wi-Fi Toggle
 ![Wi-Fi Toggle](images/wifi.png)
