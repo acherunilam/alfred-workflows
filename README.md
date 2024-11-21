@@ -24,6 +24,11 @@ Aliases: leaf, nano
 ![Nanoleaf](images/nanoleaf.png)
 Requires [Nanoleaf Light Panels](https://nanoleaf.me/en-US/products/nanoleaf-light-panels).
 
+## OTP
+Aliases: 2fa, otp
+![OTP](images/otp.png)
+Shortcut: <kbd>Ctrl</kbd> + <kbd>Cmd</kbd> + <kbd>O</kbd>
+
 ## Pastebin
 Aliases: paste, pb
 ![Pastebin](images/paste.png)
