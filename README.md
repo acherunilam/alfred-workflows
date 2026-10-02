@@ -1,6 +1,6 @@
 # Alfred Workflows
 
-My collection of productivity-boosting [Alfred](https://www.alfredapp.com/powerpack/) Workflows. Remember to [set the necessary Workflow Environment Variables](https://www.alfredapp.com/help/workflows/advanced/variables/#environment).
+My collection of productivity-boosting [Alfred 5](https://www.alfredapp.com/powerpack/) Workflows. Remember to fill in the [Workflow Configuration](https://www.alfredapp.com/help/workflows/user-configuration/) when importing.
 
 ## Elgato Key Light
 Aliases: elgato, light
