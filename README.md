@@ -12,18 +12,6 @@ Aliases: elgato, light
 ![Elgato Key Light](images/elgato.png)
 Requires [Elgato Key Light](https://www.elgato.com/en/key-light).
 
-
-## Nanoleaf
-Aliases: leaf, nano
-### Usage:
-* `nano`: Turn the light on/off
-* `nano b<1-9>`: Set the brightness level
-* `nano c<color>`: Set the color
-* `nano s<scene>`: Set the scene
-
-![Nanoleaf](images/nanoleaf.png)
-Requires [Nanoleaf Light Panels](https://nanoleaf.me/en-US/products/nanoleaf-light-panels).
-
 ## OTP
 Aliases: 2fa, otp
 ![OTP](images/otp.png)
