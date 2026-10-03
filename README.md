@@ -37,7 +37,7 @@ Shortcut: <kbd>Ctrl</kbd> + <kbd>Cmd</kbd> + <kbd>O</kbd>
 ## Pastebin
 Aliases: paste, pb
 ![Pastebin](images/paste.png)
-Requires [Pastebin](https://github.com/mkaczanowski/pastebin).
+Requires [Rustypaste](https://github.com/orhun/rustypaste).
 
 ## URL Shortener
 Aliases: link, shorten, url
