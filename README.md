@@ -21,6 +21,14 @@ Aliases: elgato, light
 ![Elgato Key Light](images/elgato.png)
 Requires [Elgato Key Light](https://www.elgato.com/en/key-light).
 
+## Nuki
+Aliases: nuki, door
+### Usage:
+* `nuki`: Lock or unlock, with what the lock last reported and its battery level
+
+![Nuki Smart Lock](images/nuki.png)
+Requires a [Nuki Smart Lock](https://nuki.io) with built-in Wi-Fi and [MQTT](https://help.nuki.io/hc/en-us/articles/14052016143249) enabled.
+
 ## OTP
 Aliases: 2fa, otp
 ![OTP](images/otp.png)
