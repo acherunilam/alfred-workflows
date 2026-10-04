@@ -60,7 +60,7 @@ Give Alfred Full Disk Access in System Settings → Privacy & Security, so it ca
 
 ### Usage
 
-Type the OTP from the latest SMS into the frontmost app and press Return via the `otp` (or `2fa`) keyword or the [Hotkey](https://www.alfredapp.com/help/workflows/triggers/hotkey/), set to <kbd>⌃</kbd><kbd>⌘</kbd><kbd>O</kbd>.
+Type the OTP from the latest SMS or RCS message of the last 15 minutes into the frontmost app and press Return via the `otp` (or `2fa`) keyword or the [Hotkey](https://www.alfredapp.com/help/workflows/triggers/hotkey/), set to <kbd>⌃</kbd><kbd>⌘</kbd><kbd>O</kbd>.
 
 ![OTP](images/otp.png)
 
